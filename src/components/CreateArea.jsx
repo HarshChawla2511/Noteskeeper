@@ -22,7 +22,7 @@ function CreateArea(props) {
     }
 
     function submitNote(event){
-        props.onAdd(note); //onAdd ko yahase call kro and me ye pass krdo 
+        props.onAdd(note); //onAdd ko yahase call kro and me ye pass krdo thikee naa
         setNote({
           title: "",
           content: "",
