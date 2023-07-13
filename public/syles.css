@@ -61,12 +61,7 @@ footer p {
   position: relative;
   float: right;
   margin-right: 10px;
-<<<<<<< HEAD
-  background: #ffffff;
-  color: #e92d2d;
-=======
   color: #f5ba13;
->>>>>>> 727f18f30d60907d1fc62b1cef28ac2f9e15e146
   border: none;
   width: 36px;
   height: 36px;
@@ -78,11 +73,7 @@ form.create-note {
   position: relative;
   width: 480px;
   margin: 30px auto 20px auto;
-<<<<<<< HEAD
-  background: #ffffff;
-=======
   background: #fff;
->>>>>>> 727f18f30d60907d1fc62b1cef28ac2f9e15e146
   padding: 15px;
   border-radius: 7px;
   box-shadow: 0 1px 5px rgb(138, 137, 137);
@@ -102,11 +93,7 @@ form.create-note button {
   position: absolute;
   right: 18px;
   bottom: -18px;
-<<<<<<< HEAD
-  background: #450ce1;
-=======
   background: #f5ba13;
->>>>>>> 727f18f30d60907d1fc62b1cef28ac2f9e15e146
   color: #fff;
   border: none;
   border-radius: 50%;
