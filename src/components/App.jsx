@@ -23,7 +23,10 @@ function App() {
       })
     })
   }
+<<<<<<< HEAD
   
+=======
+>>>>>>> bf7b688 (Final)
 
   return (
     <div>

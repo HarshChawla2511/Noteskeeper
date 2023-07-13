@@ -14,10 +14,14 @@ body {
 
 header {
 <<<<<<< HEAD
+<<<<<<< HEAD
   background-color: #450ce1;
 =======
   background-color: #f5ba13;
 >>>>>>> 727f18f30d60907d1fc62b1cef28ac2f9e15e146
+=======
+  background-color: #f5ba13;
+>>>>>>> bf7b688 (Final)
   margin: auto -16px;
   padding: 16px 32px;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
@@ -42,10 +46,14 @@ footer p {
 }
 .note {
 <<<<<<< HEAD
+<<<<<<< HEAD
   background: #fafbfc;
 =======
   background: #fff;
 >>>>>>> 727f18f30d60907d1fc62b1cef28ac2f9e15e146
+=======
+  background: #fff;
+>>>>>>> bf7b688 (Final)
   border-radius: 7px;
   box-shadow: 0 2px 5px #ccc;
   padding: 10px;
@@ -57,9 +65,12 @@ footer p {
   font-size: 1.1em;
   margin-bottom: 6px;
 <<<<<<< HEAD
+<<<<<<< HEAD
   word-wrap: break-word;
 =======
 >>>>>>> 727f18f30d60907d1fc62b1cef28ac2f9e15e146
+=======
+>>>>>>> bf7b688 (Final)
 }
 .note p {
   font-size: 1.1em;
@@ -73,11 +84,15 @@ footer p {
   float: right;
   margin-right: 10px;
 <<<<<<< HEAD
+<<<<<<< HEAD
   background: #ffffff;
   color: #e92d2d;
 =======
   color: #f5ba13;
 >>>>>>> 727f18f30d60907d1fc62b1cef28ac2f9e15e146
+=======
+  color: #f5ba13;
+>>>>>>> bf7b688 (Final)
   border: none;
   width: 36px;
   height: 36px;
@@ -90,10 +105,14 @@ form.create-note {
   width: 480px;
   margin: 30px auto 20px auto;
 <<<<<<< HEAD
+<<<<<<< HEAD
   background: #ffffff;
 =======
   background: #fff;
 >>>>>>> 727f18f30d60907d1fc62b1cef28ac2f9e15e146
+=======
+  background: #fff;
+>>>>>>> bf7b688 (Final)
   padding: 15px;
   border-radius: 7px;
   box-shadow: 0 1px 5px rgb(138, 137, 137);
@@ -104,9 +123,12 @@ form.create-note textarea {
   border: none;
   padding: 4px;
 <<<<<<< HEAD
+<<<<<<< HEAD
   background: #ffffff;
 =======
 >>>>>>> 727f18f30d60907d1fc62b1cef28ac2f9e15e146
+=======
+>>>>>>> bf7b688 (Final)
   outline: none;
   font-size: 1.2em;
   font-family: inherit;
@@ -117,10 +139,14 @@ form.create-note button {
   right: 18px;
   bottom: -18px;
 <<<<<<< HEAD
+<<<<<<< HEAD
   background: #450ce1;
 =======
   background: #f5ba13;
 >>>>>>> 727f18f30d60907d1fc62b1cef28ac2f9e15e146
+=======
+  background: #f5ba13;
+>>>>>>> bf7b688 (Final)
   color: #fff;
   border: none;
   border-radius: 50%;
