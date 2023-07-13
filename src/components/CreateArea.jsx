@@ -27,6 +27,7 @@ function CreateArea(props) {
           title: "",
           content: "",
         });
+        dknfkldnf
         event.preventDefault(); // Default jo btn click krnepe page refres hota wo nai hoga
         
     }
