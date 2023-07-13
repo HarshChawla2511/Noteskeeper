@@ -23,11 +23,6 @@ function App() {
       })
     })
   }
-<<<<<<< HEAD
-  
-=======
->>>>>>> bf7b688 (Final)
-
   return (
     <div>
       <Header />
@@ -43,6 +38,7 @@ function App() {
             content = {noteItem.content} 
             onDelete = {deleteNote}
           />
+          
         );
       })}
 
