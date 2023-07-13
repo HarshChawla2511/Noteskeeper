@@ -61,7 +61,7 @@ footer p {
   position: relative;
   float: right;
   margin-right: 10px;
-  color: #f5ba13;
+  color: #e10c0c;
   border: none;
   width: 36px;
   height: 36px;
@@ -93,7 +93,7 @@ form.create-note button {
   position: absolute;
   right: 18px;
   bottom: -18px;
-  background: #f5ba13;
+  background: #450ce1;
   color: #fff;
   border: none;
   border-radius: 50%;
